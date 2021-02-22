@@ -1,0 +1,2 @@
+# explore_weather_trends
+Climate change, global warming and global temperature have become important topics in recent years. The human activity is considered to be the main reason of climate change.  In the project you will see visualizations and comparison of global and local temperatures and their changes during last 250 years. There will also be a general estimation of upcoming climate changes.
